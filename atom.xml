@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://picking-gh.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-08-02T05:44:37.487Z</updated>
+    <title>WOFT – 俺の憂鬱</title>
+    <updated>2019-08-02T05:46:54.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://picking-gh.github.io/"/>
     <link rel="self" href="https://picking-gh.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>穷折腾，些许经验，似是而非的感悟</subtitle>
     <logo>https://picking-gh.github.io//images/avatar.png</logo>
     <icon>https://picking-gh.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, WOFT – 俺の憂鬱</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://picking-gh.github.io//post/about</id>
